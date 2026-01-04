@@ -15,6 +15,9 @@ Building scalable AI/ML projects
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Numba1ne&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Numba1ne/Numba1ne/output/github-snake.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
