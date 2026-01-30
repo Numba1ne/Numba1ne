@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building scalable AI/ML projects 
+Full-time professional in GenAI. Building AI/ML projects.  Open to Collaborations and Jobs.
 
 
 ## 🌐 Socials:
