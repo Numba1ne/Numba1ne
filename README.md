@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-time professional in GenAI. Building AI/ML projects.  Open to Collaborations and Jobs.
+Full-time professional in GenAI, Building AI/ML projects.  Open to Collaborations and Jobs.
 
 
 ## 🌐 Socials:
